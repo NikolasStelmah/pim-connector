@@ -1,0 +1,23 @@
+{
+  "name": "pim-connector",
+  "version": "0.0.1",
+  "description": "Connector for the Pim API use",
+  "keywords": [
+    "PIM",
+    "CONNECTOR"
+  ],
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikolas Stelmakh <nikolasstelmah@ukr.net>",
+  "license": "MIT",
+  "dependencies": {
+    "oauth": "^0.9.12",
+    "request": "^2.83.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NikolasStelmah/pim-connector.git"
+  }
+}
